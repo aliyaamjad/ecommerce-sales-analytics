@@ -21,13 +21,30 @@ This project analyzes e-commerce sales data using Python to understand sales per
 - Basic data exploration
 
 
-  ## ▶️ How to Run
+ ## 📊 Key Insights
+
+- T-Shirt is the best-selling product by quantity.
+- Electronics generates the highest revenue among categories.
+- East region has the highest revenue.
+- Monthly revenue shows variation across January, February, and March 2026.
+- The analysis helps identify product and regional sales performance.
+
+## 📈 Visualizations
+
+The project includes visualizations for:
+- Products Sold
+- Revenue by Category
+- Revenue by Region
+- Monthly Revenue Trend
+
+## 🛠️ How to Run
 
 1. Install Python.
-2. Install the required libraries:
-   ```bash
-   pip install pandas
-   phyton ecommerce_analysis.py
-   **```** after `pip install pandas`  
-then add **3. Run the project:**  
-then another **```bash** before `python ecommerce_analysis.py`.
+2. Install required libraries:
+   `pip install -r requirement.txt`
+3. Run the analysis:
+   `python ecommerce_analysis.py`
+
+## 👩‍💻 Author
+
+Aliya Amjad
