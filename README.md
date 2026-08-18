@@ -20,8 +20,14 @@ This project analyzes e-commerce sales data using Python to understand sales per
 - Customer/order analysis
 - Basic data exploration
 
-## 🎯 Objective
-The goal of this project is to practice data analysis using Python and extract useful insights from e-commerce sales data.
 
-## 👩‍💻 Author
-**Aliya**
+  ## ▶️ How to Run
+
+1. Install Python.
+2. Install the required libraries:
+   ```bash
+   pip install pandas
+   phyton ecommerce_analysis.py
+   **```** after `pip install pandas`  
+then add **3. Run the project:**  
+then another **```bash** before `python ecommerce_analysis.py`.
