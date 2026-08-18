@@ -48,3 +48,6 @@ The project includes visualizations for:
 ## 👩‍💻 Author
 
 Aliya Amjad
+## 📊 Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](dashboard.png)
